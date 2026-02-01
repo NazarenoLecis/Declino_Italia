@@ -1,0 +1,941 @@
+sector_va,year,va,key
+Branca di attività economica (ATECO 2007),2015,,branca di attività economica (ateco 2007)
+Totale attività economiche,2015,1554159.8,totale attività economiche
+Attività economiche non market,2015,248545.4,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2015,34815.2,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2015,31514.9,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2015,2210.7,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2015,1118.1,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2015,365943.3,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2015,299480.2,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2015,1928.0,industria estrattiva
+Industria manifatturiera,2015,261810.0,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2015,29258.0,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2015,26993.9,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2015,15196.0,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2015,5088.4,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2015,5854.3,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2015,4257.1,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2015,2211.8,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2015,12298.4,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2015,9665.4,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2015,22149.7,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2015,12104.4,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2015,10086.8,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2015,41106.8,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2015,9059.7,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2015,32062.3,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2015,9264.1,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2015,10609.0,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2015,37038.5,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2015,18898.9,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2015,11850.1,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2015,7270.6,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2015,23400.3,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2015,14554.1,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2015,8882.3,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2015,20425.6,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2015,16499.6,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2015,5680.1,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2015,10848.5,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2015,66504.5,costruzioni
+Servizi,2015,1153525.0,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2015,310402.1,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2015,175381.9,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2015,16311.7,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2015,79694.2,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2015,79458.0,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2015,74639.4,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2015,38922.5,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2015,2237.7,trasporti marittimi e per vie dacqua
+Trasporto aereo,2015,860.8,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2015,29367.2,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2015,3288.4,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2015,61832.5,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2015,53375.1,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2015,10319.6,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2015,3757.0,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2015,6596.7,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2015,13997.4,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2015,29806.7,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2015,82151.7,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2015,50922.1,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2015,16282.4,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2015,15368.9,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2015,214945.3,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2015,146976.4,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2015,147236.1,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2015,96741.4,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2015,66821.6,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2015,48632.5,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2015,18191.8,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2015,14374.6,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2015,15686.1,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2015,2389.3,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2015,13902.1,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2015,50516.3,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2015,7108.7,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2015,8470.4,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2015,6174.6,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2015,31037.0,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2015,283014.5,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2015,110612.3,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2015,70664.5,istruzione
+Sanità e assistenza sociale,2015,101834.6,sanità e assistenza sociale
+Attività dei servizi sanitari,2015,88774.3,attività dei servizi sanitari
+Assistenza sociale,2015,13308.9,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2015,63155.1,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2015,17162.8,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2015,9609.0,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2015,7571.5,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2015,27997.0,altre attività di servizi
+Attività di organizzazioni associative,2015,4957.2,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2015,1784.3,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2015,21259.5,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2015,18053.2,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2016,,branca di attività economica (ateco 2007)
+Totale attività economiche,2016,1575406.2,totale attività economiche
+Attività economiche non market,2016,248816.3,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2016,34701.0,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2016,31499.5,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2016,2154.0,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2016,1069.0,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2016,374258.5,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2016,307501.5,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2016,2838.7,industria estrattiva
+Industria manifatturiera,2016,267106.9,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2016,29118.9,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2016,26451.0,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2016,15907.7,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2016,5151.5,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2016,5988.0,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2016,4748.6,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2016,1363.5,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2016,12528.4,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2016,9741.2,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2016,22552.4,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2016,12405.3,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2016,10181.3,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2016,42803.0,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2016,10019.4,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2016,32846.0,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2016,8630.0,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2016,10677.4,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2016,37010.0,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2016,22551.9,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2016,14523.4,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2016,8229.7,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2016,23899.6,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2016,14694.9,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2016,9227.5,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2016,20346.8,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2016,17178.8,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2016,6399.5,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2016,10885.9,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2016,66849.6,costruzioni
+Servizi,2016,1166701.3,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2016,318280.0,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2016,178835.4,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2016,16791.2,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2016,82881.4,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2016,79228.8,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2016,77538.3,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2016,39139.4,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2016,2542.8,trasporti marittimi e per vie dacqua
+Trasporto aereo,2016,2210.7,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2016,30549.5,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2016,3159.7,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2016,63351.0,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2016,55529.8,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2016,10408.2,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2016,3832.5,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2016,6615.7,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2016,14863.6,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2016,30884.2,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2016,81484.0,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2016,50299.4,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2016,14687.8,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2016,16293.3,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2016,215139.1,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2016,147251.8,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2016,151158.0,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2016,99576.7,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2016,69246.2,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2016,51123.5,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2016,18118.2,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2016,14595.6,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2016,15911.3,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2016,2729.1,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2016,13556.5,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2016,51592.2,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2016,7480.2,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2016,9052.9,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2016,5493.9,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2016,31373.7,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2016,281582.6,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2016,109904.8,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2016,70475.7,istruzione
+Sanità e assistenza sociale,2016,101301.5,sanità e assistenza sociale
+Attività dei servizi sanitari,2016,87601.2,attività dei servizi sanitari
+Assistenza sociale,2016,13877.3,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2016,63989.5,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2016,18801.2,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2016,10560.5,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2016,8253.9,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2016,27500.4,altre attività di servizi
+Attività di organizzazioni associative,2016,4994.5,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2016,1764.8,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2016,20749.3,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2016,17691.4,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2017,,branca di attività economica (ateco 2007)
+Totale attività economiche,2017,1604434.9,totale attività economiche
+Attività economiche non market,2017,246978.4,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2017,33313.5,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2017,30101.7,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2017,2212.8,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2017,1016.2,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2017,385606.7,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2017,318287.3,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2017,2955.2,industria estrattiva
+Industria manifatturiera,2017,276905.5,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2017,30568.9,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2017,28013.3,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2017,15922.6,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2017,4975.5,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2017,6241.9,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2017,4696.1,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2017,790.6,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2017,13179.0,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2017,9820.2,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2017,23650.2,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2017,13323.6,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2017,10334.9,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2017,43648.8,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2017,10086.9,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2017,33611.8,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2017,8783.2,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2017,10919.2,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2017,39665.2,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2017,24200.0,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2017,16348.2,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2017,8026.5,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2017,24158.1,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2017,15137.4,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2017,9051.8,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2017,21313.4,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2017,17078.2,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2017,5595.7,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2017,11494.4,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2017,67458.3,costruzioni
+Servizi,2017,1185777.3,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2017,329194.8,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2017,182135.9,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2017,19023.9,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2017,85703.1,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2017,77471.7,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2017,82930.3,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2017,40949.0,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2017,2957.1,trasporti marittimi e per vie dacqua
+Trasporto aereo,2017,2966.2,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2017,32720.0,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2017,3414.0,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2017,65576.7,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2017,56383.8,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2017,10347.6,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2017,3730.8,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2017,6643.0,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2017,14844.3,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2017,31922.1,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2017,81611.6,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2017,49278.2,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2017,14894.7,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2017,17312.7,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2017,216092.8,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2017,148071.2,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2017,156886.8,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2017,102220.1,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2017,70490.8,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2017,52258.8,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2017,18223.2,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2017,14799.4,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2017,17029.3,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2017,2728.3,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2017,14818.7,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2017,54700.1,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2017,8153.0,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2017,11183.3,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2017,4778.1,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2017,31933.5,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2017,280846.7,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2017,108269.9,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2017,70334.3,istruzione
+Sanità e assistenza sociale,2017,102381.9,sanità e assistenza sociale
+Attività dei servizi sanitari,2017,87826.9,attività dei servizi sanitari
+Assistenza sociale,2017,14663.1,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2017,64854.7,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2017,19035.7,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2017,10927.0,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2017,8103.2,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2017,28293.1,altre attività di servizi
+Attività di organizzazioni associative,2017,4991.0,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2017,1783.5,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2017,21522.9,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2017,17530.9,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2018,,branca di attività economica (ateco 2007)
+Totale attività economiche,2018,1620342.6,totale attività economiche
+Attività economiche non market,2018,246491.2,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2018,34287.9,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2018,30973.3,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2018,2289.6,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2018,1043.5,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2018,390462.7,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2018,322397.9,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2018,2866.3,industria estrattiva
+Industria manifatturiera,2018,279750.7,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2018,30918.5,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2018,28233.1,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2018,15827.2,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2018,4949.4,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2018,6074.7,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2018,4788.2,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2018,346.7,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2018,13452.7,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2018,9797.6,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2018,24589.0,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2018,13811.0,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2018,10789.1,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2018,44183.4,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2018,8240.7,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2018,35969.7,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2018,8916.0,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2018,11132.0,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2018,40304.4,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2018,25068.0,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2018,16779.4,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2018,8467.2,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2018,24552.6,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2018,15642.5,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2018,8960.2,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2018,22555.4,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2018,17313.6,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2018,5624.1,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2018,11700.0,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2018,68209.4,costruzioni
+Servizi,2018,1195882.8,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2018,333116.1,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2018,185390.7,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2018,18265.1,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2018,89180.7,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2018,77985.9,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2018,82280.0,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2018,40097.1,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2018,2752.0,trasporti marittimi e per vie dacqua
+Trasporto aereo,2018,3429.3,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2018,33472.0,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2018,2805.1,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2018,66886.9,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2018,55642.9,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2018,9807.2,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2018,3538.9,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2018,6293.5,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2018,14096.4,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2018,32642.0,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2018,81305.0,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2018,47805.8,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2018,15912.2,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2018,17814.1,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2018,218059.7,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2018,149833.4,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2018,163354.0,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2018,105021.0,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2018,72084.0,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2018,55048.7,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2018,17043.7,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2018,15249.2,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2018,17767.5,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2018,3321.8,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2018,14714.3,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2018,58380.8,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2018,9075.6,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2018,12069.9,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2018,4175.1,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2018,34051.2,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2018,279868.2,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2018,107138.9,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2018,70898.9,istruzione
+Sanità e assistenza sociale,2018,101973.6,sanità e assistenza sociale
+Attività dei servizi sanitari,2018,87148.6,attività dei servizi sanitari
+Assistenza sociale,2018,14904.6,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2018,64430.7,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2018,19035.6,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2018,10675.3,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2018,8368.7,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2018,28000.0,altre attività di servizi
+Attività di organizzazioni associative,2018,5013.5,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2018,1814.5,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2018,21177.9,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2018,17398.7,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2019,,branca di attività economica (ateco 2007)
+Totale attività economiche,2019,1631728.4,totale attività economiche
+Attività economiche non market,2019,246041.3,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2019,33599.4,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2019,30415.1,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2019,2283.0,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2019,912.8,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2019,393235.4,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2019,323098.1,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2019,2609.6,industria estrattiva
+Industria manifatturiera,2019,280183.0,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2019,31511.6,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2019,28315.2,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2019,15880.5,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2019,4769.0,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2019,6524.4,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2019,4576.9,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2019,363.8,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2019,12865.5,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2019,10594.4,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2019,24665.3,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2019,14001.5,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2019,10666.3,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2019,43444.4,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2019,8185.1,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2019,35270.2,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2019,9056.1,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2019,11414.9,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2019,40651.8,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2019,24050.6,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2019,15927.3,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2019,8288.7,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2019,24857.8,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2019,15351.9,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2019,9518.7,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2019,23358.1,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2019,17276.4,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2019,5508.1,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2019,11778.5,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2019,70241.4,costruzioni
+Servizi,2019,1205167.7,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2019,342404.2,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2019,191983.8,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2019,19341.3,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2019,92545.4,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2019,80185.8,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2019,84876.1,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2019,42537.7,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2019,2641.0,trasporti marittimi e per vie dacqua
+Trasporto aereo,2019,4074.1,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2019,33348.0,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2019,2869.4,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2019,66919.6,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2019,57173.8,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2019,9333.8,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2019,3374.3,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2019,5984.3,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2019,16247.2,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2019,31929.6,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2019,81615.4,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2019,47750.5,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2019,14695.7,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2019,19091.9,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2019,220192.3,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2019,150321.9,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2019,162007.9,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2019,102634.6,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2019,68133.1,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2019,51664.4,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2019,16452.7,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2019,15470.2,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2019,18987.2,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2019,4158.7,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2019,14871.9,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2019,59432.1,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2019,9572.6,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2019,11990.2,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2019,4198.6,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2019,34658.7,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2019,277235.7,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2019,107157.9,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2019,70340.8,istruzione
+Sanità e assistenza sociale,2019,99819.1,sanità e assistenza sociale
+Attività dei servizi sanitari,2019,84739.7,attività dei servizi sanitari
+Assistenza sociale,2019,15114.1,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2019,64153.1,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2019,20123.4,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2019,11398.0,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2019,8728.8,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2019,26917.1,altre attività di servizi
+Attività di organizzazioni associative,2019,4822.5,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2019,1795.2,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2019,20305.3,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2019,17111.1,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2020,,branca di attività economica (ateco 2007)
+Totale attività economiche,2020,1496321.9,totale attività economiche
+Attività economiche non market,2020,239862.1,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2020,32198.1,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2020,29090.8,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2020,2446.7,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2020,660.6,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2020,350104.7,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2020,284141.8,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2020,2778.3,industria estrattiva
+Industria manifatturiera,2020,241771.9,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2020,28398.8,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2020,20874.4,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2020,13441.4,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2020,3987.8,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2020,5820.4,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2020,3633.1,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2020,-201.7,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2020,12196.0,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2020,10500.7,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2020,22154.5,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2020,12893.7,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2020,9260.7,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2020,38911.4,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2020,7474.9,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2020,31436.5,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2020,8915.4,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2020,10891.9,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2020,35201.1,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2020,19205.3,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2020,11222.9,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2020,7982.4,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2020,21282.9,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2020,12962.1,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2020,8320.8,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2020,22531.7,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2020,17059.9,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2020,4979.1,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2020,12080.8,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2020,65962.9,costruzioni
+Servizi,2020,1114019.1,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2020,284233.9,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2020,175832.3,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2020,16245.2,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2020,85384.0,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2020,74203.2,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2020,69700.7,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2020,34674.4,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2020,1614.2,trasporti marittimi e per vie dacqua
+Trasporto aereo,2020,965.0,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2020,29596.2,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2020,2850.9,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2020,38700.9,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2020,56724.9,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2020,8572.3,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2020,2892.7,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2020,5679.6,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2020,17811.5,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2020,30341.2,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2020,81527.0,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2020,47142.2,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2020,14948.1,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2020,19436.7,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2020,213196.5,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2020,150515.3,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2020,159157.5,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2020,105368.0,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2020,71658.9,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2020,54557.8,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2020,17101.1,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2020,15713.4,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2020,17995.7,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2020,4213.2,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2020,13782.6,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2020,53789.5,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2020,8958.9,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2020,11009.2,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2020,1105.9,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2020,32715.6,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2020,265914.2,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2020,104455.0,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2020,67850.0,istruzione
+Sanità e assistenza sociale,2020,93609.2,sanità e assistenza sociale
+Attività dei servizi sanitari,2020,78983.8,attività dei servizi sanitari
+Assistenza sociale,2020,14625.4,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2020,53265.0,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2020,14440.6,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2020,8769.9,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2020,5670.7,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2020,22743.3,altre attività di servizi
+Attività di organizzazioni associative,2020,4992.4,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2020,1398.9,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2020,16352.1,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2020,16081.1,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2021,,branca di attività economica (ateco 2007)
+Totale attività economiche,2021,1630469.8,totale attività economiche
+Attività economiche non market,2021,244111.2,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2021,32109.5,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2021,29107.4,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2021,2319.4,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2021,682.7,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2021,406039.0,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2021,325659.4,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2021,4393.5,industria estrattiva
+Industria manifatturiera,2021,279551.0,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2021,33715.3,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2021,25798.6,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2021,15046.8,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2021,4767.2,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2021,6288.4,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2021,3991.2,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2021,1571.4,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2021,12399.0,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2021,10453.8,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2021,27847.2,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2021,15304.3,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2021,12542.8,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2021,42838.6,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2021,6259.8,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2021,36578.8,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2021,10253.1,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2021,12556.9,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2021,40525.6,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2021,22066.8,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2021,14485.6,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2021,7581.2,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2021,24477.8,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2021,15697.3,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2021,8780.5,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2021,22019.9,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2021,19695.0,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2021,5759.1,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2021,13935.9,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2021,80379.6,costruzioni
+Servizi,2021,1192321.2,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2021,326777.9,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2021,200673.2,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2021,19145.3,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2021,97190.3,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2021,84337.5,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2021,76243.0,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2021,41137.6,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2021,2501.5,trasporti marittimi e per vie dacqua
+Trasporto aereo,2021,356.1,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2021,28926.9,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2021,3320.8,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2021,49861.7,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2021,62702.6,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2021,9632.2,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2021,2984.1,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2021,6648.1,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2021,17526.6,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2021,35543.8,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2021,80736.2,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2021,49684.2,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2021,14608.2,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2021,16443.8,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2021,214775.1,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2021,149991.7,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2021,174235.1,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2021,113185.9,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2021,77343.6,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2021,57086.9,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2021,20256.7,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2021,16061.6,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2021,19780.6,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2021,4702.3,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2021,15078.3,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2021,61049.2,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2021,9578.1,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2021,14070.7,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2021,1432.7,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2021,35967.7,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2021,277854.0,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2021,104263.2,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2021,69825.4,istruzione
+Sanità e assistenza sociale,2021,103765.5,sanità e assistenza sociale
+Attività dei servizi sanitari,2021,88745.3,attività dei servizi sanitari
+Assistenza sociale,2021,15020.2,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2021,55240.3,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2021,13876.1,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2021,8320.7,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2021,5555.3,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2021,24593.1,altre attività di servizi
+Attività di organizzazioni associative,2021,5136.9,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2021,1557.2,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2021,17899.0,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2021,16771.1,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2022,,branca di attività economica (ateco 2007)
+Totale attività economiche,2022,1711010.4,totale attività economiche
+Attività economiche non market,2022,242918.4,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2022,32963.1,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2022,30144.9,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2022,2249.1,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2022,580.8,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2022,419750.4,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2022,325527.0,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2022,1488.3,industria estrattiva
+Industria manifatturiera,2022,286958.7,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2022,33792.9,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2022,29521.2,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2022,15031.2,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2022,5189.5,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2022,5740.9,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2022,4041.1,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2022,3652.8,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2022,9644.9,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2022,10930.8,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2022,27331.7,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2022,14984.2,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2022,12349.4,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2022,41642.4,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2022,5977.6,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2022,35751.4,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2022,10897.0,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2022,12855.0,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2022,39745.6,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2022,24298.6,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2022,16386.1,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2022,7950.4,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2022,26206.9,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2022,16805.3,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2022,9401.5,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2022,16718.3,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2022,21086.6,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2022,6122.9,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2022,14964.7,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2022,93726.9,costruzioni
+Servizi,2022,1258470.8,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2022,354787.0,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2022,206653.0,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2022,20610.8,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2022,100310.1,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2022,85725.2,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2022,82304.7,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2022,47710.2,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2022,3993.8,trasporti marittimi e per vie dacqua
+Trasporto aereo,2022,640.6,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2022,27999.9,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2022,3067.9,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2022,65775.7,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2022,64800.6,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2022,9548.5,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2022,2918.9,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2022,6632.0,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2022,17915.3,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2022,37321.9,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2022,80550.2,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2022,48753.6,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2022,15890.4,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2022,16137.2,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2022,221394.1,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2022,151213.1,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2022,193911.1,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2022,127120.9,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2022,86094.0,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2022,62691.7,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2022,23404.8,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2022,17130.5,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2022,23927.0,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2022,7298.0,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2022,16776.0,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2022,66789.6,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2022,10759.4,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2022,15254.6,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2022,3117.2,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2022,37843.1,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2022,281453.3,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2022,104613.8,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2022,70052.1,istruzione
+Sanità e assistenza sociale,2022,106896.8,sanità e assistenza sociale
+Attività dei servizi sanitari,2022,90918.8,attività dei servizi sanitari
+Assistenza sociale,2022,15959.3,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2022,61524.4,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2022,18636.3,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2022,10635.6,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2022,8059.9,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2022,26823.6,altre attività di servizi
+Attività di organizzazioni associative,2022,5222.5,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2022,1801.5,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2022,19799.0,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2022,15720.2,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2023,,branca di attività economica (ateco 2007)
+Totale attività economiche,2023,1727655.7,totale attività economiche
+Attività economiche non market,2023,244300.1,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2023,31277.7,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2023,28527.7,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2023,2252.0,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2023,504.0,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2023,427854.1,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2023,323106.1,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2023,1651.1,industria estrattiva
+Industria manifatturiera,2023,285387.6,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2023,34449.6,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2023,28787.3,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2023,14078.7,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2023,4780.6,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2023,5643.5,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2023,3549.8,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2023,3186.7,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2023,9874.9,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2023,10817.5,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2023,24803.0,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2023,14070.7,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2023,10714.9,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2023,44597.6,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2023,6275.3,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2023,38534.2,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2023,10527.7,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2023,11370.7,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2023,39343.4,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2023,26122.8,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2023,17495.9,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2023,8642.1,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2023,25634.0,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2023,15661.5,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2023,9906.6,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2023,16892.8,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2023,19231.2,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2023,5248.2,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2023,13973.5,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2023,104441.0,costruzioni
+Servizi,2023,1268611.2,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2023,351390.3,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2023,201496.5,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2023,20874.8,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2023,98739.3,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2023,81853.4,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2023,83112.0,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2023,45685.1,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2023,6802.8,trasporti marittimi e per vie dacqua
+Trasporto aereo,2023,439.1,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2023,28337.7,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2023,3026.8,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2023,66880.2,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2023,67276.0,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2023,10058.2,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2023,2795.1,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2023,7289.7,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2023,18246.1,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2023,38912.7,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2023,74571.8,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2023,45917.8,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2023,12863.1,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2023,16134.7,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2023,227236.6,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2023,155683.9,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2023,201383.1,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2023,136421.4,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2023,94389.1,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2023,68678.0,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2023,25712.0,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2023,18286.7,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2023,23679.8,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2023,8244.5,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2023,15920.9,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2023,65023.9,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2023,10436.7,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2023,15029.0,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2023,2344.7,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2023,37180.2,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2023,283046.3,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2023,105918.3,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2023,69397.9,istruzione
+Sanità e assistenza sociale,2023,107896.9,sanità e assistenza sociale
+Attività dei servizi sanitari,2023,90660.5,attività dei servizi sanitari
+Assistenza sociale,2023,17194.9,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2023,64854.6,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2023,20154.1,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2023,11525.3,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2023,8689.1,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2023,28328.4,altre attività di servizi
+Attività di organizzazioni associative,2023,5307.7,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2023,1893.6,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2023,21132.8,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2023,16011.4,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
+Branca di attività economica (ATECO 2007),2024,,branca di attività economica (ateco 2007)
+Totale attività economiche,2024,1739217.5,totale attività economiche
+Attività economiche non market,2024,243920.4,attività economiche non market
+"Agricoltura, silvicoltura e pesca",2024,31905.2,"agricoltura, silvicoltura e pesca"
+"Produzioni vegetali e animali, caccia e servizi connessi",2024,,"produzioni vegetali e animali, caccia e servizi connessi"
+Silvicoltura e utilizzo di aree forestali,2024,,silvicoltura e utilizzo di aree forestali
+Pesca e acquicoltura,2024,,pesca e acquicoltura
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni",2024,429007.2,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento, costruzioni"
+"Attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2024,323198.8,"attività estrattiva, attività manifatturiere, fornitura di energia elettrica, gas, vapore e aria condizionata, fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+Industria estrattiva,2024,1749.1,industria estrattiva
+Industria manifatturiera,2024,283456.7,industria manifatturiera
+"Industrie alimentari, delle bevande e del tabacco",2024,35534.9,"industrie alimentari, delle bevande e del tabacco"
+"Industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili",2024,26777.8,"industrie tessili, confezione di articoli di abbigliamento e di articoli in pelle e simili"
+"Industria del legno, della carta, editoria",2024,13809.7,"industria del legno, della carta, editoria"
+"Industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio",2024,,"industria del legno e dei prodotti in legno e sughero, esclusi i mobili, fabbricazione di articoli in paglia e materiali da intreccio"
+Fabbricazione di carta e di prodotti di carta,2024,,fabbricazione di carta e di prodotti di carta
+Stampa e riproduzione su supporti registrati,2024,,stampa e riproduzione su supporti registrati
+Fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio,2024,3237.7,fabbricazione di coke e prodotti derivanti dalla raffinazione del petrolio
+Fabbricazione di prodotti chimici,2024,10541.9,fabbricazione di prodotti chimici
+Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2024,11745.3,fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici
+Fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi,2024,23900.6,fabbricazione di articoli in gomma e materie plastiche e altri prodotti della lavorazione di minerali non metalliferi
+Fabbricazione di articoli in gomma e materie plastiche,2024,,fabbricazione di articoli in gomma e materie plastiche
+Fabbricazione di altri prodotti della lavorazione di minerali non metalliferi,2024,,fabbricazione di altri prodotti della lavorazione di minerali non metalliferi
+"Attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2024,44336.8,"attività metallurgiche e fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Attività metallurgiche,2024,,attività metallurgiche
+"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",2024,,"fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature"
+Fabbricazione di computer e prodotti di elettronica e ottica,2024,10316.1,fabbricazione di computer e prodotti di elettronica e ottica
+Fabbricazione di apparecchiature elettriche,2024,11681.9,fabbricazione di apparecchiature elettriche
+Fabbricazione di macchinari e apparecchiature n.c.a.,2024,39157.1,fabbricazione di macchinari e apparecchiature n c a
+Fabbricazione di mezzi di trasporto,2024,24397.6,fabbricazione di mezzi di trasporto
+"Fabbricazione di autoveicoli, rimorchi e semirimorchi",2024,,"fabbricazione di autoveicoli, rimorchi e semirimorchi"
+Fabbricazione di altri mezzi di trasporto,2024,,fabbricazione di altri mezzi di trasporto
+"Fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature",2024,26186.8,"fabbricazione di mobili, altre industrie manifatturiere, riparazione e installazione di macchine e apparecchiature"
+"Fabbricazione di mobili, altre industrie manifatturiere",2024,,"fabbricazione di mobili, altre industrie manifatturiere"
+Riparazione e installazione di macchine e apparecchiature,2024,,riparazione e installazione di macchine e apparecchiature
+"Fornitura di energia elettrica, gas, vapore e aria condizionata",2024,18171.2,"fornitura di energia elettrica, gas, vapore e aria condizionata"
+"Fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento",2024,18658.1,"fornitura di acqua, reti fognarie, attività di trattamento dei rifiuti e risanamento"
+"Raccolta, trattamento e fornitura di acqua",2024,,"raccolta, trattamento e fornitura di acqua"
+"Gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti",2024,,"gestione delle reti fognarie, attività di raccolta, trattamento e smaltimento dei rifiuti, recupero dei materiali, attività di risanamento e altri servizi di gestione dei rifiuti"
+Costruzioni,2024,105564.0,costruzioni
+Servizi,2024,1278476.7,servizi
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione",2024,350362.2,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli, trasporto e magazzinaggio, servizi di alloggio e di ristorazione"
+"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",2024,201172.3,"commercio allingrosso e al dettaglio, riparazione di autoveicoli e motocicli"
+Commercio all'ingrosso e al dettaglio e riparazione di autoveicoli e motocicli,2024,,commercio allingrosso e al dettaglio e riparazione di autoveicoli e motocicli
+"Commercio all'ingrosso, escluso quello di autoveicoli e di motocicli",2024,,"commercio allingrosso, escluso quello di autoveicoli e di motocicli"
+"Commercio al dettaglio, escluso quello di autoveicoli e di motocicli",2024,,"commercio al dettaglio, escluso quello di autoveicoli e di motocicli"
+Trasporti e magazzinaggio,2024,81568.7,trasporti e magazzinaggio
+Trasporto terrestre e trasporto mediante condotte,2024,,trasporto terrestre e trasporto mediante condotte
+Trasporti marittimi e per vie d'acqua,2024,,trasporti marittimi e per vie dacqua
+Trasporto aereo,2024,,trasporto aereo
+Magazzinaggio e attività di supporto ai trasporti,2024,,magazzinaggio e attività di supporto ai trasporti
+Servizi postali e attività di corriere,2024,,servizi postali e attività di corriere
+Servizi di alloggio e di ristorazione,2024,67687.5,servizi di alloggio e di ristorazione
+Servizi di informazione e comunicazione,2024,68144.1,servizi di informazione e comunicazione
+"Attività editoriali, audiovisivi, attività di trasmissione",2024,10015.7,"attività editoriali, audiovisivi, attività di trasmissione"
+Attività editoriali,2024,,attività editoriali
+"Attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione",2024,,"attività di produzione cinematografica, di video e di programmi televisivi, di registrazioni musicali e sonore, attività di programmazione e trasmissione"
+Telecomunicazioni,2024,17202.1,telecomunicazioni
+"Programmazione, consulenza informatica e attività connesse, attività dei servizi d'informazione",2024,40654.9,"programmazione, consulenza informatica e attività connesse, attività dei servizi dinformazione"
+Attività finanziarie e assicurative,2024,76717.1,attività finanziarie e assicurative
+Prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione),2024,,prestazione di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)
+"Assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie",2024,,"assicurazioni, riassicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie"
+Attività ausiliarie dei servizi finanziari e delle attività assicurative,2024,,attività ausiliarie dei servizi finanziari e delle attività assicurative
+Attività immobiliari,2024,234316.6,attività immobiliari
+"Attività immobiliari, di cui: affitti imputati per gli alloggi occupati dai rispettivi proprietari",2024,,"attività immobiliari, di cui affitti imputati per gli alloggi occupati dai rispettivi proprietari"
+"Attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto",2024,205147.2,"attività professionali, scientifiche e tecniche, amministrazione e servizi di supporto"
+"Attività professionali, scientifiche e tecniche",2024,138503.1,"attività professionali, scientifiche e tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2024,97104.6,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale, attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+"Attività legali e contabilità, attività di sedi centrali, consulenza gestionale",2024,,"attività legali e contabilità, attività di sedi centrali, consulenza gestionale"
+"Attività degli studi di architettura e d'ingegneria, collaudi e analisi tecniche",2024,,"attività degli studi di architettura e dingegneria, collaudi e analisi tecniche"
+Ricerca scientifica e sviluppo,2024,18398.3,ricerca scientifica e sviluppo
+"Pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari",2024,22945.0,"pubblicità e ricerche di mercato, altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Pubblicità e ricerche di mercato,2024,,pubblicità e ricerche di mercato
+"Altre attività professionali, scientifiche e tecniche, servizi veterinari",2024,,"altre attività professionali, scientifiche e tecniche, servizi veterinari"
+Attività amministrative e di servizi di supporto,2024,66681.9,attività amministrative e di servizi di supporto
+Attività di noleggio e leasing,2024,,attività di noleggio e leasing
+"Attività di ricerca, selezione, fornitura di personale",2024,,"attività di ricerca, selezione, fornitura di personale"
+"Attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate",2024,,"attività dei servizi delle agenzie di viaggio, dei tour operator e servizi di prenotazione e attività correlate"
+"Servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni d'ufficio e altri servizi di supporto alle imprese",2024,,"servizi di investigazione e vigilanza, attività di servizi per edifici e per paesaggio, attività amministrative e di supporto per le funzioni dufficio e altri servizi di supporto alle imprese"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale",2024,279792.9,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria, istruzione, sanità e assistenza sociale"
+"Amministrazione pubblica e difesa, assicurazione sociale obbligatoria",2024,107190.7,"amministrazione pubblica e difesa, assicurazione sociale obbligatoria"
+Istruzione,2024,67709.2,istruzione
+Sanità e assistenza sociale,2024,105001.9,sanità e assistenza sociale
+Attività dei servizi sanitari,2024,88070.2,attività dei servizi sanitari
+Assistenza sociale,2024,16887.0,assistenza sociale
+"Attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi",2024,64949.5,"attività artistiche, di intrattenimento e divertimento, riparazione di beni per la casa e altri servizi"
+"Attività artistiche, di intrattenimento e divertimento",2024,20024.2,"attività artistiche, di intrattenimento e divertimento"
+"Attività creative, artistiche e d'intrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco",2024,,"attività creative, artistiche e dintrattenimento, attività di biblioteche, archivi, musei e altre attività culturali, attività riguardanti scommesse e case da gioco"
+"Attività sportive, di intrattenimento e di divertimento",2024,,"attività sportive, di intrattenimento e di divertimento"
+Altre attività di servizi,2024,28300.1,altre attività di servizi
+Attività di organizzazioni associative,2024,,attività di organizzazioni associative
+Riparazione di computer e di beni per uso personale e per la casa,2024,,riparazione di computer e di beni per uso personale e per la casa
+Altre attività di servizi personali,2024,,altre attività di servizi personali
+"Attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",2024,16263.9,"attività di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze"
