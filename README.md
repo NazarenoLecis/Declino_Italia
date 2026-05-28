@@ -1,6 +1,6 @@
 # Declino Italia
 
-Repository personale di Nazareno Lecis per analizzare, con dati ufficiali via API, alcune dimensioni del declino economico e sociale italiano: produttivita, demografia, capitale umano, innovazione, occupazione, struttura produttiva e istituzioni.
+Repository per analizzare, con dati ufficiali via API, alcune dimensioni del declino economico e sociale italiano: produttivita, demografia, capitale umano, innovazione, occupazione, struttura produttiva e istituzioni.
 
 Il progetto non usa file Excel o dataset manuali come input. Le analisi interrogano direttamente API pubbliche e lavorano i dati in memoria; gli script possono salvare solo grafici PNG nella stessa cartella del codice che li genera.
 
