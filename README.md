@@ -1,7 +1,3 @@
-# ORA-Lab
-
-Repository dedicata alle attività del team di ORA! Lab.
-
 ## Analisi disponibili
 
 - `analisi/`: cartelle ordinate per argomento (`istruzione`, `ricerca`, `demografia`, `valore_aggiunto`, `occupazione`, `pil`).
