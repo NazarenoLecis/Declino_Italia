@@ -16,15 +16,14 @@ Indicatori principali:
 - forze lavoro;
 - ore lavorate.
 
-File locali utili:
+Fonti:
 
-- `../../dati/istat/III_2025_Serie-storiche_offerta-di-lavoro_grezzi.xlsx`
-- `../../dati/istat/III_2025_Serie-storiche_domanda-di-lavoro.xlsx`
+- API World Bank WDI.
 
 Script collegato:
 
 - `occupazione.py`
 
-Output:
+Grafici:
 
-- `output/`
+- stessa cartella dello script.

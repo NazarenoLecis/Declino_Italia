@@ -10,17 +10,18 @@ Indicatori principali:
 - saldo naturale;
 - saldo migratorio.
 
-Fonti utili:
+Notebook:
 
-- ISTAT
-- Eurostat
-- World Bank
-- Nazioni Unite
+- `notebooks/01_demografia_natalita_api.ipynb`
+
+Fonti notebook:
+
+- API World Bank
 
 Script collegato:
 
 - `demografia.py`
 
-Output:
+Grafici:
 
-- `output/`
+- stessa cartella dello script.

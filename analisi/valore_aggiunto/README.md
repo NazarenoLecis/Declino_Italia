@@ -10,6 +10,10 @@ Script collegato:
 
 - `valore_aggiunto_pil.py`
 
-Output:
+Fonti:
 
-- `output/`
+- API World Bank WDI.
+
+Grafici:
+
+- stessa cartella dello script.

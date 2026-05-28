@@ -6,27 +6,25 @@ import sys
 ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT_DIR))
 
-from analisi._comune.indicatori_api import build_indicator_panel, plot_indicator, summarize_decline
+from analisi.utils.api_indicators import build_indicator_panel, plot_indicator, summarize_decline
 
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTDIR = BASE_DIR / "output"
-OUTDIR.mkdir(exist_ok=True)
+PLOTS_DIR = BASE_DIR
 
-TEMI = ["innovazione"]
-GRAFICI = ["GB.XPD.RSDV.GD.ZS", "DERIVED_PATENTS_PER_MILLION", "TX.VAL.TECH.MF.ZS"]
+THEMES = ["innovazione"]
+CHARTS = ["GB.XPD.RSDV.GD.ZS", "DERIVED_PATENTS_PER_MILLION", "TX.VAL.TECH.MF.ZS"]
 
 
-def esegui(refresh: bool = False) -> None:
+def run(refresh: bool = False) -> None:
     panel = build_indicator_panel(refresh=refresh)
-    panel_tema = panel[panel["theme"].isin(TEMI)].copy()
-    summary = summarize_decline(panel_tema)
+    theme_panel = panel[panel["theme"].isin(THEMES)].copy()
+    summary = summarize_decline(theme_panel)
 
-    panel_tema.to_csv(OUTDIR / "ricerca_panel.csv", index=False, encoding="utf-8")
-    summary.to_csv(OUTDIR / "ricerca_summary.csv", index=False, encoding="utf-8")
-    for indicatore in GRAFICI:
-        plot_indicator(panel, indicatore, OUTDIR)
+    for indicator_id in CHARTS:
+        plot_indicator(panel, indicator_id, PLOTS_DIR)
+    print(summary[["indicator_label", "latest_year", "latest_value_italy", "gap_vs_peer_mean"]].to_string(index=False))
 
 
 if __name__ == "__main__":
-    esegui(refresh=False)
+    run(refresh=False)

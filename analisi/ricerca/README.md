@@ -8,17 +8,18 @@ Indicatori principali:
 - export high-tech;
 - innovazione delle imprese.
 
-Fonti utili:
+Notebook:
 
-- Eurostat
-- OECD
-- World Bank
-- ISTAT
+- `notebooks/01_innovazione_api.ipynb`
+
+Fonti notebook:
+
+- API World Bank
 
 Script collegato:
 
 - `ricerca.py`
 
-Output:
+Grafici:
 
-- `output/`
+- stessa cartella dello script.

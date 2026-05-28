@@ -10,8 +10,17 @@ Indicatori principali:
 Script collegati:
 
 - `pil_lavoro.py`
-- `../_comune/indicatori_api.py`
+- `../utils/api_indicators.py`
 
-Output:
+Notebook:
 
-- `output/`
+- `notebooks/01_produttivita_reddito_api.ipynb`
+
+Fonti notebook:
+
+- API World Bank
+- API Eurostat
+
+Grafici:
+
+- stessa cartella dello script.

@@ -3,33 +3,29 @@ from __future__ import annotations
 from pathlib import Path
 import sys
 
-import pandas as pd
-
 ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT_DIR))
 
-from analisi.pil.pil_lavoro import carica_occupati_totali
+from analisi.utils.api_indicators import build_indicator_panel, plot_indicator, summarize_decline
 
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTDIR = BASE_DIR / "output"
-OUTDIR.mkdir(exist_ok=True)
+PLOTS_DIR = BASE_DIR
+
+THEMES = ["occupazione"]
+CHARTS = ["SL.EMP.TOTL.SP.ZS", "SL.UEM.TOTL.ZS", "SL.TLF.TOTL.IN"]
 
 
-def esegui() -> None:
-    occupati = carica_occupati_totali().rename("occupati_migliaia").reset_index()
-    occupati = occupati.rename(columns={"period": "trimestre"})
-    occupati["trimestre"] = occupati["trimestre"].astype(str)
-    occupati.to_csv(OUTDIR / "occupati_totali_trimestrali.csv", index=False, encoding="utf-8")
+def run(refresh: bool = False) -> None:
+    panel = build_indicator_panel(refresh=refresh)
+    theme_panel = panel[panel["theme"].isin(THEMES)].copy()
+    summary = summarize_decline(theme_panel)
 
-    ultimo_anno = (
-        occupati.assign(anno=occupati["trimestre"].str[:4].astype(int))
-        .groupby("anno", as_index=False)["occupati_migliaia"]
-        .mean()
-        .tail(10)
-    )
-    ultimo_anno.to_csv(OUTDIR / "occupati_totali_annuali_ultimi_10_anni.csv", index=False, encoding="utf-8")
+    for indicator_id in CHARTS:
+        if indicator_id in set(panel["indicator_id"]):
+            plot_indicator(panel, indicator_id, PLOTS_DIR)
+    print(summary[["indicator_label", "latest_year", "latest_value_italy", "gap_vs_peer_mean"]].to_string(index=False))
 
 
 if __name__ == "__main__":
-    esegui()
+    run(refresh=False)

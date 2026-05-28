@@ -8,16 +8,18 @@ Indicatori principali:
 - NEET;
 - competenze e capitale umano, quando disponibili.
 
-Fonti utili:
+Notebook:
 
-- ISTAT
-- Eurostat
-- OECD
+- `notebooks/01_capitale_umano_api.ipynb`
+
+Fonti notebook:
+
+- API World Bank
 
 Script collegato:
 
 - `istruzione.py`
 
-Output:
+Grafici:
 
-- `output/`
+- stessa cartella dello script.
