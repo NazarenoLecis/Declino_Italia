@@ -532,12 +532,12 @@ def plot_indicator(panel: pd.DataFrame, indicator_id: str, outdir: Path = PLOTS_
 
     if n_countries > 8 and "ITA" in set(sub["country_key"]):
         pivot = sub.pivot_table(index="year", columns="country_key", values="value", aggfunc="mean").sort_index()
-        peer_cols = [c for c in pivot.columns if c not in {"ITA", "EU"}]
-        peer = pivot[peer_cols]
+        country_cols = [c for c in pivot.columns if c != "EU"]
+        advanced = pivot[country_cols]
         years = pivot.index.to_numpy()
-        ax.fill_between(years, peer.min(axis=1), peer.max(axis=1), color="#eeeeee", label="Minimo-massimo paesi avanzati")
-        ax.fill_between(years, peer.quantile(0.25, axis=1), peer.quantile(0.75, axis=1), color="#bdbdbd", label="Pct 25-75")
-        ax.plot(years, peer.median(axis=1), color="black", linestyle=(0, (4, 3)), linewidth=1.8, label="Mediana")
+        ax.fill_between(years, advanced.min(axis=1), advanced.max(axis=1), color="#eeeeee", label="Minimo-massimo paesi avanzati")
+        ax.fill_between(years, advanced.quantile(0.25, axis=1), advanced.quantile(0.75, axis=1), color="#bdbdbd", label="Pct 25-75")
+        ax.plot(years, advanced.median(axis=1), color="black", linestyle=(0, (4, 3)), linewidth=1.8, label="Mediana")
         ax.plot(years, pivot["ITA"], color="#0875c9", linewidth=3, label="Italia")
     else:
         for key, country_sub in sub.sort_values("year").groupby("country_key"):
