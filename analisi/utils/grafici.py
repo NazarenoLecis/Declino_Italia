@@ -65,12 +65,15 @@ FIRMA_FONTE = "elaborazione Nazareno Lecis"
 
 @dataclass(frozen=True)
 class SpecificaGrafico:
-    pagine: str
-    sezione: str
     titolo: str
     nome_output: str
     fonte: str
-    tipo: str
+    trasformazione: str
+    tipo_grafico: str = "serie_storica"
+    anno_inizio: int = 1960
+    ultimo_dato: str = "latest"
+    cosa_mostra: str = ""
+    fonti_alternative: tuple[str, ...] = ()
     indicatore: str | None = None
     numeratore: str | None = None
     denominatore: str | None = None
@@ -128,16 +131,17 @@ def scarica_indicatore_world_bank(indicator: str, countries: Iterable[str], star
     return pd.DataFrame(rows)
 
 
-def scarica_valori_specifica(spec: SpecificaGrafico, start_year: int = 1960) -> pd.DataFrame:
+def scarica_valori_specifica(spec: SpecificaGrafico, start_year: int | None = None) -> pd.DataFrame:
     if not spec.supportato:
         raise ValueError(f"Grafico non supportato: {spec.titolo}")
 
     countries = spec.paesi
+    anno_inizio = spec.anno_inizio if start_year is None else start_year
     if spec.numeratore is not None and spec.denominatore is not None:
         if spec.numeratore is None or spec.denominatore is None:
             raise ValueError(f"Ratio incompleto: {spec.titolo}")
-        num = scarica_indicatore_world_bank(spec.numeratore, countries, start_year).rename(columns={"value": "numerator"})
-        den = scarica_indicatore_world_bank(spec.denominatore, countries, start_year).rename(columns={"value": "denominator"})
+        num = scarica_indicatore_world_bank(spec.numeratore, countries, anno_inizio).rename(columns={"value": "numerator"})
+        den = scarica_indicatore_world_bank(spec.denominatore, countries, anno_inizio).rename(columns={"value": "denominator"})
         merged = num.merge(den[["country_key", "year", "denominator"]], on=["country_key", "year"], how="inner")
         merged = merged[merged["numerator"].notna() & merged["denominator"].notna()].copy()
         if spec.operazione == "product":
@@ -149,7 +153,7 @@ def scarica_valori_specifica(spec: SpecificaGrafico, start_year: int = 1960) -> 
 
     if spec.indicatore is None:
         raise ValueError(f"Indicatore mancante: {spec.titolo}")
-    return scarica_indicatore_world_bank(spec.indicatore, countries, start_year)
+    return scarica_indicatore_world_bank(spec.indicatore, countries, anno_inizio)
 
 
 def crescita_annualizzata(values: pd.Series, window: int) -> pd.Series:
@@ -162,25 +166,25 @@ def trasforma_valori(df: pd.DataFrame, spec: SpecificaGrafico) -> pd.DataFrame:
     frames = []
     for _, sub in df.sort_values("year").groupby("country_key", sort=False):
         sub = sub.copy()
-        if spec.tipo in {"level", "ratio"}:
+        if spec.trasformazione in {"level", "ratio"}:
             sub["plot_value"] = sub["value"]
-        elif spec.tipo == "growth_10y":
+        elif spec.trasformazione == "growth_10y":
             sub["plot_value"] = crescita_annualizzata(sub["value"], spec.finestra)
-        elif spec.tipo == "index":
+        elif spec.trasformazione == "index":
             base = sub[sub["year"] >= spec.anno_base].sort_values("year")
             if base.empty or base.iloc[0]["value"] == 0:
                 sub["plot_value"] = math.nan
             else:
                 sub["plot_value"] = sub["value"] / float(base.iloc[0]["value"]) * 100
-        elif spec.tipo == "share_world":
+        elif spec.trasformazione == "share_world":
             frames.append(sub)
             continue
         else:
-            raise ValueError(f"Trasformazione sconosciuta: {spec.tipo}")
+            raise ValueError(f"Trasformazione sconosciuta: {spec.trasformazione}")
         frames.append(sub)
 
     out = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
-    if spec.tipo == "share_world":
+    if spec.trasformazione == "share_world":
         pivot = out.pivot_table(index="year", columns="country_key", values="value", aggfunc="mean")
         if "ITA" not in pivot or "WLD" not in pivot:
             return pd.DataFrame()
@@ -227,18 +231,40 @@ def disegna_distribuzione(df: pd.DataFrame, spec: SpecificaGrafico, outdir: Path
 
 
 def etichetta_asse_y(spec: SpecificaGrafico) -> str:
-    if spec.tipo == "growth_10y":
+    if spec.trasformazione == "growth_10y":
         return "% annuo"
-    if spec.tipo == "index":
+    if spec.trasformazione == "index":
         return f"indice {spec.anno_base}=100"
-    if spec.tipo == "share_world":
+    if spec.trasformazione == "share_world":
         return "% PIL mondiale"
     if spec.nome_output.endswith("_quota") or "% del" in spec.titolo:
         return "%"
     return "livello"
 
 
-def genera_grafico(spec: SpecificaGrafico, outdir: Path, start_year: int = 1960) -> Path:
+def descrivi_trasformazione(spec: SpecificaGrafico) -> str:
+    if spec.trasformazione == "growth_10y":
+        return f"crescita annualizzata su {spec.finestra} anni"
+    if spec.trasformazione == "index":
+        return f"indice con base {spec.anno_base}=100"
+    if spec.trasformazione == "share_world":
+        return "quota dell'Italia sul totale mondiale"
+    if spec.numeratore and spec.denominatore:
+        if spec.operazione == "product":
+            return f"prodotto tra {spec.numeratore} e {spec.denominatore}, scala {spec.scala:g}"
+        return f"rapporto tra {spec.numeratore} e {spec.denominatore}, scala {spec.scala:g}"
+    if spec.trasformazione in {"level", "ratio"}:
+        return "livello della serie"
+    return "da collegare"
+
+
+def descrivi_confronto(spec: SpecificaGrafico) -> str:
+    if not spec.confronto:
+        return "solo serie richiesta"
+    return "Italia dentro distribuzione paesi avanzati: min-max, percentile 25-75 e mediana"
+
+
+def genera_grafico(spec: SpecificaGrafico, outdir: Path, start_year: int | None = None) -> Path:
     values = scarica_valori_specifica(spec, start_year=start_year)
     transformed = trasforma_valori(values, spec)
     if transformed.empty:
@@ -246,7 +272,11 @@ def genera_grafico(spec: SpecificaGrafico, outdir: Path, start_year: int = 1960)
     return disegna_distribuzione(transformed, spec, outdir)
 
 
-def genera_grafici_supportati(specifiche: Iterable[SpecificaGrafico], outdir: Path, start_year: int = 1960) -> tuple[list[Path], pd.DataFrame]:
+def genera_grafici_e_inventario(
+    specifiche: Iterable[SpecificaGrafico],
+    outdir: Path,
+    start_year: int | None = None,
+) -> tuple[list[Path], pd.DataFrame]:
     paths: list[Path] = []
     rows = []
     for spec in specifiche:
@@ -261,12 +291,19 @@ def genera_grafici_supportati(specifiche: Iterable[SpecificaGrafico], outdir: Pa
                 errore = str(exc)
         rows.append(
             {
-                "pagine": spec.pagine,
-                "sezione": spec.sezione,
                 "titolo": spec.titolo,
-                "fonte": spec.fonte,
+                "tipo_grafico": spec.tipo_grafico,
+                "cosa_mostra": spec.cosa_mostra or spec.titolo,
+                "fonte_primaria": spec.fonte,
+                "fonti_alternative": ", ".join(spec.fonti_alternative),
+                "anno_inizio": spec.anno_inizio,
+                "ultimo_dato": spec.ultimo_dato,
+                "trasformazione": descrivi_trasformazione(spec),
+                "confronto": descrivi_confronto(spec),
                 "stato": stato,
                 "nome_output": spec.nome_output,
+                "indicatore_world_bank": spec.indicatore or "",
+                "formula": f"{spec.numeratore or ''} / {spec.denominatore or ''}".strip(" /"),
                 "note": spec.note,
                 "errore": errore,
             }
@@ -274,26 +311,32 @@ def genera_grafici_supportati(specifiche: Iterable[SpecificaGrafico], outdir: Pa
     return paths, pd.DataFrame(rows)
 
 
-def specifica_world_bank(
-    sezione: str,
-    pagine: str,
+def definisci_grafico_da_indicatore_world_bank(
     titolo: str,
     nome_output: str,
     indicatore: str,
-    tipo: str,
-    fonte: str = "World Bank API",
+    trasformazione: str,
+    fonte_primaria: str = "World Bank API",
+    tipo_grafico: str = "serie_storica",
+    anno_inizio: int = 1960,
+    ultimo_dato: str = "latest",
     confronto: bool = True,
     paesi: tuple[str, ...] = tuple(PAESI_AVANZATI),
     anno_base: int = 1970,
+    cosa_mostra: str = "",
+    fonti_alternative: tuple[str, ...] = (),
     note: str = "",
 ) -> SpecificaGrafico:
     return SpecificaGrafico(
-        pagine=pagine,
-        sezione=sezione,
         titolo=titolo,
         nome_output=nome_output,
-        fonte=fonte,
-        tipo=tipo,
+        fonte=fonte_primaria,
+        trasformazione=trasformazione,
+        tipo_grafico=tipo_grafico,
+        anno_inizio=anno_inizio,
+        ultimo_dato=ultimo_dato,
+        cosa_mostra=cosa_mostra,
+        fonti_alternative=tuple(fonti_alternative),
         indicatore=indicatore,
         confronto=confronto,
         paesi=paesi,
@@ -302,28 +345,34 @@ def specifica_world_bank(
     )
 
 
-def specifica_rapporto(
-    sezione: str,
-    pagine: str,
+def definisci_grafico_da_rapporto_world_bank(
     titolo: str,
     nome_output: str,
     numeratore: str,
     denominatore: str,
     scala: float,
-    tipo: str = "ratio",
-    fonte: str = "World Bank API",
+    trasformazione: str = "ratio",
+    fonte_primaria: str = "World Bank API",
+    tipo_grafico: str = "serie_storica",
+    anno_inizio: int = 1960,
+    ultimo_dato: str = "latest",
     confronto: bool = True,
     paesi: tuple[str, ...] = tuple(PAESI_AVANZATI),
     anno_base: int = 1970,
     operazione: str = "ratio",
+    cosa_mostra: str = "",
+    fonti_alternative: tuple[str, ...] = (),
 ) -> SpecificaGrafico:
     return SpecificaGrafico(
-        pagine=pagine,
-        sezione=sezione,
         titolo=titolo,
         nome_output=nome_output,
-        fonte=fonte,
-        tipo=tipo,
+        fonte=fonte_primaria,
+        trasformazione=trasformazione,
+        tipo_grafico=tipo_grafico,
+        anno_inizio=anno_inizio,
+        ultimo_dato=ultimo_dato,
+        cosa_mostra=cosa_mostra,
+        fonti_alternative=tuple(fonti_alternative),
         numeratore=numeratore,
         denominatore=denominatore,
         scala=scala,
@@ -334,14 +383,27 @@ def specifica_rapporto(
     )
 
 
-def specifica_in_attesa(sezione: str, pagine: str, titolo: str, nome_output: str, fonte: str, note: str) -> SpecificaGrafico:
+def registra_grafico_da_collegare_a_api(
+    titolo: str,
+    nome_output: str,
+    fonte_primaria: str,
+    note: str,
+    tipo_grafico: str = "serie_storica",
+    anno_inizio: int = 1960,
+    ultimo_dato: str = "latest",
+    cosa_mostra: str = "",
+    fonti_alternative: tuple[str, ...] = (),
+) -> SpecificaGrafico:
     return SpecificaGrafico(
-        pagine=pagine,
-        sezione=sezione,
         titolo=titolo,
         nome_output=nome_output,
-        fonte=fonte,
-        tipo="pending",
+        fonte=fonte_primaria,
+        trasformazione="pending",
+        tipo_grafico=tipo_grafico,
+        anno_inizio=anno_inizio,
+        ultimo_dato=ultimo_dato,
+        cosa_mostra=cosa_mostra,
+        fonti_alternative=tuple(fonti_alternative),
         supportato=False,
         note=note,
     )
